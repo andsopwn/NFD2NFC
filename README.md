@@ -1,5 +1,8 @@
-# 맥 → 윈도우 한글 깨짐 방지
-NFD → NFC 변환 스크립트 (For MacOS)
+# 맥 → 윈도우 한글 깨짐 방지 (for Mac)
+
+<img src="ref/hing.png" width="400">
+<br>
+NFD → NFC 변환 스크립트
 
 ## 개요
 * macOS(APFS/HFS+)는 파일명을 NFD로 저장
